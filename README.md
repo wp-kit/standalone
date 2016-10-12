@@ -1,4 +1,6 @@
-# [WP Kit](http://creativelittle.uk/wpkit)
+# [WP Kit Standalone](http://creativelittle.uk/wpkit)
+
+WP Kit Standalone was created for use cases where users require the installation of WP Kit in a subdirectory situated inside the root folder a Wordpress install.
 
 The Creative Little WP Kit is a MCEDC (Model Component Event Driven Controller) solution for Wordpress.
 
@@ -23,10 +25,10 @@ Composer
 To get going with the framework you should:
 
   * Download the [WP Kit Installer](https://github.com/creativelittledots/WP-Kit-Installer) and install it
-  * Run the following command
+  * Run the following command in the root directory of your Wordpress install
   
   ```php
-  wpkit new themename
+  wpkit new app appname
   ```
   
   * That's it, get coding!
