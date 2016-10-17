@@ -20,14 +20,18 @@
 		
 	}
 	
-	define('THEME_DIR', getcwd());
+	//define( 'WPKIT_DEBUG', true );
+	
+	define( 'BASE_PATH', '/api' );
+	
+	define( 'THEME_DIR', getcwd() );
 		
 	/**
 	 * Tells WordPress not to load the WordPress theme and output it.
 	 *
 	 * @var bool
 	 */	
-	define('WP_USE_THEMES', false);
+	define( 'WP_USE_THEMES', false );
 	
 	/** Loads the WordPress Environment and Template */
 	require __DIR__ . '/../wp-blog-header.php';
