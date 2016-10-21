@@ -11,3 +11,13 @@
 	// initialise WPKit to invoke classes etc.
 
 	wpkit()->init();
+	
+	// when using REST api OPTIONS needs to return successful
+	
+	if ( 'OPTIONS' == $_SERVER['REQUEST_METHOD'] ) {
+			    
+        status_header(200);
+        
+        exit();
+        
+    }
