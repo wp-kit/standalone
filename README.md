@@ -1,14 +1,10 @@
-# [WP Kit Standalone](http://creativelittle.uk/wpkit)
+# [WP Kit (Standalone)](http://creativelittle.uk/wpkit)
 
 WP Kit Standalone was created for use cases where users require the installation of WP Kit in a subdirectory situated inside the root folder a Wordpress install.
 
-The Creative Little WP Kit is a MCEDC (Model Component Event Driven Controller) solution for Wordpress.
+The Creative Little WP Kit is a RAD (Rapid Application Framework) framework for Wordpress.
 
 It allows fast Model creation using our Model Layer technology, allowing you to layer on top of the Post or Taxonomy Model in Wordpress to generate Post Types & Taxonomies.
-
-It also allows for grouping of Events (Actions / Filters) in Controllers by invoking them on specified actions and conditions.
-
-Timber (Twig) has been implemented which allows for component segregation for use in Wordpress templates.
 
 ## Requirements
 
