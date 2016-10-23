@@ -4,7 +4,6 @@
     "keywords": ["wpkit"],
     "license": "MIT",
     "require": {
-	    "timber/timber": "*",
         "creativelittledots/wp-kit-core": "*"
     },
     "autoload": {
@@ -15,5 +14,9 @@
 	        "config/bootstrap.php",
 	        "app/routes.php"
         ]
-    }
+    },
+    "config": {
+		"preferred-install": "dist"
+	},
+	"minimum-stability": "dev"
 }
