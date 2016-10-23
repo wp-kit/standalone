@@ -1,5 +1,7 @@
 <?php
 	
+	namespace App;
+	
 	// if we don't have WPKit at this point we probably should die
 	    
 	if( ! class_exists('WPKit\\Core\Application') ) {
@@ -10,14 +12,4 @@
 	
 	// initialise WPKit to invoke classes etc.
 
-	wpkit()->boot();
-	
-	// when using REST api OPTIONS needs to return successful
-	
-	if ( 'OPTIONS' == $_SERVER['REQUEST_METHOD'] ) {
-			    
-        status_header(200);
-        
-        exit();
-        
-    }
+	wpkit()->setNamespace( __NAMESPACE__ )->boot();
