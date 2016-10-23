@@ -1,25 +1,5 @@
 <?php
 	
-	if( ! function_exists('mb_strtolower') ) {
-	
-		function mb_strtolower($string) {
-			
-			return strtolower($string);
-			
-		}
-		
-	}
-	
-	if( ! function_exists('mb_strtoupper') ) {
-
-		function mb_strtoupper($string) {
-			
-			return strtoupper($string);
-			
-		}
-		
-	}
-	
 	//define( 'WPKIT_DEBUG', true );
 	
 	define( 'BASE_PATH', '/api' );
