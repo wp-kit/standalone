@@ -4,7 +4,7 @@
 	
 	define( 'BASE_PATH', '/api' );
 	
-	define( 'THEME_DIR', getcwd() );
+	define( 'APP_ROOT', getcwd() );
 		
 	/**
 	 * Tells WordPress not to load the WordPress theme and output it.
@@ -26,4 +26,5 @@
 	// Use composer to load the autoloader.
 	require __DIR__ . '/vendor/autoload.php';
 	
-	do_action( 'init' );
+	do_action( 'wpkit_init' );
+	
