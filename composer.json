@@ -4,7 +4,7 @@
     "keywords": ["wpkit"],
     "license": "MIT",
     "require": {
-        "creativelittledots/wp-kit-core": "*"
+        "creativelittledots/wp-kit-core": "1.*"
     },
     "autoload": {
         "psr-4": {
