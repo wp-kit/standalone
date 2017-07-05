@@ -1,5 +1,7 @@
 # [WP Kit (Standalone)](http://creativelittle.uk/wpkit)
 
+**This repo is being discontinued to make way for (http://framework.themosis.com/)[Themosis]. Themosis works at root level which makes this repo redundant** 
+
 WP Kit Standalone was created for use cases where users require the installation of WP Kit in a subdirectory situated inside the root folder a Wordpress install.
 
 The Creative Little WP Kit is a RAD (Rapid Application Framework) framework for Wordpress.
