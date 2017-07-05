@@ -20,7 +20,7 @@ Composer
 
 ## Installation (Via WPKit Installer)
 
-  * Download the [WP Kit Installer](https://github.com/creativelittledots/WP-Kit-Installer) and install it
+  * Download the version 1.1.1 of [WP Kit Installer](https://github.com/wp-kit/installer) and install it
   * Run the following command in the root directory of your Wordpress install
   
   ```php
