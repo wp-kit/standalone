@@ -14,17 +14,14 @@ Wordpress 4+
 
 PHP 5.6+
 
-WPKit Installer
-
 Composer
 
-## Installation (Via WPKit Installer)
+## Installation (Via Composer)
 
-  * Download the version 1.1.1 of [WP Kit Installer](https://github.com/wp-kit/installer) and install it
   * Run the following command in the root directory of your Wordpress install
   
   ```php
-  wpkit new app appname
+  composer create-project wpkit/standalone
   ```
   
   * That's it, get coding!
@@ -52,8 +49,8 @@ Documentation for the framework can be found at our [Git Docs](http://creativeli
 
 ## Security Vulnerabilities
 
-If you discover a security vulnerability within WP Kit, please send an e-mail to tech@creativelittledots.co.uk or raise an issue on this repo. All security vulnerabilities will be promptly addressed.
+If you discover a security vulnerability within WPKit, please send an e-mail to tech@creativelittledots.co.uk or raise an issue on this repo. All security vulnerabilities will be promptly addressed.
 
 ## License
 
-Creative Little WP Kit is open-sourced software licensed under the MIT License.
+WPKit Standalone is open-sourced software licensed under the MIT License.
