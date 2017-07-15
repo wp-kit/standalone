@@ -1,10 +1,10 @@
-# [WP Kit (Standalone)](http://creativelittle.uk/wpkit)
+# [WPKit (Standalone)](http://creativelittle.uk/wpkit)
 
 **This repo is being discontinued to make way for [Themosis](http://framework.themosis.com/). Themosis works at root level which makes this repo redundant.** 
 
-WP Kit Standalone was created for use cases where users require the installation of WP Kit in a subdirectory situated inside the root folder a Wordpress install.
+WPKit Standalone was created for use cases where users require the installation of WPKit in a subdirectory situated inside the root folder a Wordpress install.
 
-The Creative Little WP Kit is a RAD (Rapid Application Framework) framework for Wordpress.
+The Creative Little WPKit is a RAD (Rapid Application Framework) framework for Wordpress.
 
 It allows fast Model creation using our Model Layer technology, allowing you to layer on top of the Post or Taxonomy Model in Wordpress to generate Post Types & Taxonomies.
 
@@ -37,7 +37,7 @@ Composer
   cd /path/to/your/new/app/folder
   ```
   
-  * Then finally run the following command to update Composer which will install WP Kit Core
+  * Then finally run the following command to update Composer which will install WPKit Core
   
   ```php
   composer update
