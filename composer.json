@@ -1,7 +1,7 @@
 {
-	"name": "creativelittledots/wp-kit",
-    "description": "WP Kit theme",
-    "keywords": ["wpkit"],
+	"name": "wp-kit/standalone",
+    "description": "WPKit is a RAD (Rapid Application Framework) framework for Wordpress",
+    "keywords": ["wpkit", "oop", "framework", "wordpress"],
     "license": "MIT",
     "require": {
         "creativelittledots/wp-kit-core": "1.*"
