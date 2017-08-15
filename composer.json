@@ -4,7 +4,7 @@
     "keywords": ["wpkit", "oop", "framework", "wordpress"],
     "license": "MIT",
     "require": {
-        "creativelittledots/wp-kit-core": "1.*"
+        "wp-kit/core": "1.*"
     },
     "autoload": {
         "psr-4": {
@@ -17,6 +17,5 @@
     },
     "config": {
 		"preferred-install": "dist"
-	},
-	"minimum-stability": "dev"
+	}
 }
