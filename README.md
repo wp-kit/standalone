@@ -1,4 +1,4 @@
-# [WPKit (Standalone)](http://creativelittle.uk/wpkit)
+# WPKit (Standalone)
 
 **This repo is being discontinued to make way for [Themosis](http://framework.themosis.com/). Themosis works at root level which makes this repo redundant.** 
 
