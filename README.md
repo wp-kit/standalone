@@ -1,12 +1,14 @@
 # wp-kit/standalone
 
-**This repo is being discontinued to make way for [```Themosis```](http://framework.themosis.com/). Themosis works at root level which makes this repo redundant.** 
-
 ```wp-kit/standalone``` was created for use cases where users require the installation of ```wp-kit``` in a subdirectory situated inside the root folder a Wordpress install.
 
 ```wp-kit``` is a ```RAD``` (Rapid Application Development) solution for ```Wordpress```.
 
 [View the Docs](https://github.com/wp-kit/theme/docs)
+
+## Discontinued
+
+This repo is being discontinued to make way for [```Themosis```](http://framework.themosis.com/). Themosis works at root level which makes this repo redundant.
 
 ## Requirements
 
