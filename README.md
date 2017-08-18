@@ -43,10 +43,6 @@ Composer
   composer update
   ```
 
-## Official Documentation
-
-Documentation for the framework can be found at our [Git Docs](http://creativelittledots.github.io/WP-Kit/).
-
 ## Security Vulnerabilities
 
 If you discover a security vulnerability within WPKit, please send an e-mail to tech@creativelittledots.co.uk or raise an issue on this repo. All security vulnerabilities will be promptly addressed.
