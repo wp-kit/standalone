@@ -1,12 +1,12 @@
-# WPKit (Standalone)
+# wp-kit/standalone
 
-**This repo is being discontinued to make way for [Themosis](http://framework.themosis.com/). Themosis works at root level which makes this repo redundant.** 
+**This repo is being discontinued to make way for [```Themosis```](http://framework.themosis.com/). Themosis works at root level which makes this repo redundant.** 
 
-WPKit Standalone was created for use cases where users require the installation of WPKit in a subdirectory situated inside the root folder a Wordpress install.
+```wp-kit/standalone``` was created for use cases where users require the installation of ```wp-kit``` in a subdirectory situated inside the root folder a Wordpress install.
 
-The Creative Little WPKit is a RAD (Rapid Application Framework) framework for Wordpress.
+```wp-kit``` is a ```RAD``` (Rapid Application Development) solution for ```Wordpress```.
 
-It allows fast Model creation using our Model Layer technology, allowing you to layer on top of the Post or Taxonomy Model in Wordpress to generate Post Types & Taxonomies.
+[View the Docs](https://github.com/wp-kit/theme/docs)
 
 ## Requirements
 
@@ -53,4 +53,4 @@ If you discover a security vulnerability within WPKit, please send an e-mail to 
 
 ## License
 
-WPKit Standalone is open-sourced software licensed under the MIT License.
+wp-kit/standalone is open-sourced software licensed under the MIT License.
