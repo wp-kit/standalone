@@ -2,7 +2,7 @@
 
 ```wp-kit/standalone``` was created for use cases where users require the installation of ```wp-kit``` in a subdirectory situated inside the root folder a Wordpress install.
 
-```wp-kit``` is a ```RAD``` (Rapid Application Development) solution for ```Wordpress```.
+```wp-kit``` is a [```RAD```](https://en.wikipedia.org/wiki/Rapid_application_development) (Rapid Application Development) solution for Wordpress.
 
 [View the Docs](https://github.com/wp-kit/theme/docs)
 
@@ -18,32 +18,15 @@ PHP 5.6+
 
 Composer
 
-## Installation (Via Composer)
+## Installation
 
-  * Run the following command in the root directory of your Wordpress install
+  * Install via [```Composer```](https://getcomposer.org/) by running this following command in the root directory of your Wordpress install
   
   ```php
   composer create-project wpkit/standalone
   ```
   
   * That's it, get coding!
-  
-## Installation (Via Download)
-
-  * Download this repo and unzip to the the root of your Wordpress installation
-  * Name the folder whatever you want your theme to be called  
-  * [Installer Composer](https://getcomposer.org/download/)
-  * Navigate to your app folder in Terminal
-  
-  ```php
-  cd /path/to/your/new/app/folder
-  ```
-  
-  * Then finally run the following command to update Composer which will install WPKit Core
-  
-  ```php
-  composer update
-  ```
 
 ## Security Vulnerabilities
 
