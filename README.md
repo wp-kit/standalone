@@ -8,7 +8,7 @@
 
 ## Discontinued
 
-This repo is being discontinued to make way for [```Themosis```](http://framework.themosis.com/). Themosis works at root level which makes this repo redundant.
+This repo is being discontinued to make way for [```Themosis```](http://framework.themosis.com/). Themosis works at root level, intercepts and handles the request and allows for multiple instances of an application state which makes this repo redundant.
 
 ## Requirements
 
