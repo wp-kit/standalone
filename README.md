@@ -20,13 +20,11 @@ Composer
 
 ## Installation
 
-  * Install via [```Composer```](https://getcomposer.org/) by running this following command in the root directory of your Wordpress install
+Install via [```Composer```](https://getcomposer.org/) by running this following command in the root directory of your Wordpress install
   
-  ```php
-  composer create-project wpkit/standalone
-  ```
-  
-  * That's it, get coding!
+```php
+composer create-project wpkit/standalone
+```
 
 ## Security Vulnerabilities
 
