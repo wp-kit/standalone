@@ -1,7 +1,7 @@
 {
 	"name": "wp-kit/standalone",
     "description": "The standalone version of wp-kit",
-    "keywords": ["wpkit", "oop", "framework", "wordpress"],
+    "keywords": ["wp-kit", "oop", "framework", "wordpress", "standalone", "rad", "rapid application development"],
     "license": "MIT",
     "require": {
         "wp-kit/core": "1.*"
