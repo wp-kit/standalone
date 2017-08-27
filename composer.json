@@ -1,6 +1,6 @@
 {
 	"name": "wp-kit/standalone",
-    "description": "WPKit is a RAD (Rapid Application Framework) framework for Wordpress",
+    "description": "The standalone version of wp-kit",
     "keywords": ["wpkit", "oop", "framework", "wordpress"],
     "license": "MIT",
     "require": {
