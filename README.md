@@ -8,7 +8,7 @@
 
 ## Discontinued
 
-This repo has been discontinued to make way for [```Themosis```](http://framework.themosis.com/). Themosis works at root level, intercepts and handles the request and allows for multiple instances of an application state which makes this repo redundant.
+This repo has been discontinued to make way for [```Bedrock```](https://roots.io/bedrock/). Bedrock works at root level, intercepts and handles the request. [WPKit Theme 2.0+](https://github.com/wp-kit/theme) can then be used at theme level.
 
 ## Requirements
 
