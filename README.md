@@ -4,8 +4,6 @@
 
 ```wp-kit``` is a [```RAD```](https://en.wikipedia.org/wiki/Rapid_application_development) (Rapid Application Development) solution for Wordpress.
 
-[View the Docs](https://github.com/wp-kit/theme/docs)
-
 ## Discontinued
 
 This repo has been discontinued to make way for [```Bedrock```](https://roots.io/bedrock/). Bedrock works at root level, intercepts and handles the request. [WPKit Theme 2.0+](https://github.com/wp-kit/theme) can then be used at theme level.
